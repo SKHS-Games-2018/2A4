@@ -20,7 +20,7 @@
 * [Kaleb Metz]()
 * [Joey O'Hair](https://github.com/StudMasterMikey)
 * [Eric Prestegard](https://github.com/PrestegardE7)
-* [Samuel Quitat]()
+* [Samuel Quitat](https://github.com/Odackhebackpack)
 * [Justin Sewell](https://github.com/Starfighter36)
 * [Colby Starkel](https://github.com/ColbyStarkel)
 * [Orlando Trejo](https://github.com/xXOrlandoTrejoXx)
