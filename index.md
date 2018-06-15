@@ -1,5 +1,5 @@
 * [Izzy Beck]()
-* [Caleb Burns]()
+* [Caleb Burns](https://github.com/gibbyhubby)
 * [Malcolm Cisler](https://github.com/DatCancerousBoi)
 * [Quincy Coleman-Brown]()
 * [Cody Cottier](https://github.com/taxfraud)
